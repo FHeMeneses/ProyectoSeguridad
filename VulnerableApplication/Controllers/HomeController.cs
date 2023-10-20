@@ -8,6 +8,7 @@ namespace VulnerableApplication.Controllers
 {
     public class HomeController : Controller
     {
+        public readonly string variableGlobalUno = "Prueba";
         public ActionResult Index()
         {
             return View();
