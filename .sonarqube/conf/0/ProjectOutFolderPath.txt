@@ -1,0 +1,1 @@
+C:\app\VulnerableApp-master\.sonarqube\out\0

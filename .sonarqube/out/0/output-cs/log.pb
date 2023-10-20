@@ -1,0 +1,1 @@
+Roslyn version: 4.5.0.0Language version: CSharp7_3!Concurrent execution: enabledîèFile 'C:\app\VulnerableApp-master\VulnerableApplication\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs' was recognized as generated
